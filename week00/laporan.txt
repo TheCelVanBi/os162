@@ -1,0 +1,2 @@
+On week 0, we were instructed to create Google and GitHub accounts for those whohaven't done so. Next, we were required to fill out a form using the Google account, and then to wait 24 hours before checking the submission status in a link.
+If the submission was successful, the next  step is to login to badak.cs.ui.ac.id using our registered SIAK account. Logging into badak.cs.ui.ac.id requires the usage of PuTTY. Extra steps (tunneling) is required for those not logging into badak.cs.ui.ac.id using the faculty computers.
