@@ -17,3 +17,4 @@ drwxr-xr-x  2 benediktus.giovanito StafCS 4096 Sep  7 11:30 week08
 drwxr-xr-x  2 benediktus.giovanito StafCS 4096 Sep  7 11:30 week09
 drwxr-xr-x  2 benediktus.giovanito StafCS 4096 Sep  7 11:31 week10
 /home/fasilkom/mahasiswa/b/benediktus.giovanito/os162/week01
+Today is 11 Sep 2016 at 16:58:01

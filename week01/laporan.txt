@@ -1,0 +1,1 @@
+the lab session for week 01 encourages us to familiarize ourselves with Scripting, the terminal, and GitHub. First, we familiarize ourselves with the GitHub by learning various commands to sync and edit local files and the GitHub version ofsaid file. After that, we familiarize ourselves with simple scripting language.
